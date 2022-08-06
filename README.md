@@ -20,3 +20,12 @@ It's been 2 years, I’m working as web developer.I have developed many website 
 </a> 
 
 
+<!--- adding 3D earth icon to show some love for the environment 🌏 --->
+<img height="40" src="https://user-images.githubusercontent.com/60597290/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
+
+<hr>
+<p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rashidwassan&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=rashidwassan&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+</p>
+<div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
