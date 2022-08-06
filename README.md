@@ -2,7 +2,9 @@
 Hey there 👋, I’m Anosh Khan and I am React Web Developer.💻
 I am doing my graduation in Information Technology.👩‍🎓
 It's been 2 years, I’m working as web developer.I have developed many website and also provided my services to a startup. I have been part of some very good web design projects.
+
 <!--- social media icons, you can find them in assets directory of this repo --->
+<h2>Contact Anosh</h2>
  
 <a href="https://www.linkedin.com/in/anosh-khan-b2b980222/">
   <img height="60" alt="AnoshKhan | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png"/>
