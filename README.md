@@ -27,6 +27,5 @@ It's been 2 years, I’m working as web developer.I have developed many website 
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=anoshkhan&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=anoshkhan&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
-<a href="https://github.com/anosh-khan/github-readme-stats"><img alt="Developer Junaid's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anosh-khan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
