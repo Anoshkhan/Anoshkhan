@@ -26,7 +26,7 @@ It's been 2 years, I’m working as web developer.I have developed many website 
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=anoshkhan&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=anoshkhan&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anoshkhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anosh-Khan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
   <br/>
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
